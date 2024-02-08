@@ -1,1 +1,1 @@
-# git_trail_version
+this is a git class
